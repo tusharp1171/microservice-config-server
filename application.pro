@@ -1,1 +1,1 @@
-spring.application.name=tushar
+spring.application.name=service
